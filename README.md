@@ -6,8 +6,6 @@ I’m the founder of **[Wild Griffin](https://wildgriffin.com)** — a platform 
 
 This GitHub is where I explore ideas, prototypes, and infrastructure that support that work.
 
----
-
 ## What I’m working on
 
 **Wild Griffin**
@@ -19,8 +17,6 @@ This GitHub is where I explore ideas, prototypes, and infrastructure that suppor
 The goal isn’t better reporting.  
 It’s better decisions.
 
----
-
 ## Background
 
 I’ve spent the last decade working on high-stakes systems across healthcare, legal, and financial domains.
@@ -30,8 +26,6 @@ I’ve spent the last decade working on high-stakes systems across healthcare, l
 - Former commercial pilot, trained in structured decision-making and risk management  
 
 Those principles now shape how I design technology and research workflows.
-
----
 
 ## Projects
 
@@ -51,16 +45,12 @@ A selection of current and evolving work.
 
 (Most work here is early, opinionated, and evolving.)
 
----
-
 ## How I think
 
 - Data is only useful if it changes a decision  
 - Uncertainty should be exposed, not hidden  
 - Systems fail because of incentives, not ignorance  
 - “We don’t know yet” is often the most honest output  
-
----
 
 ## Collaboration
 
